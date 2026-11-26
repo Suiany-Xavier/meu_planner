@@ -115,3 +115,5 @@ Distribuído sob a licença MIT. Veja [LICENSE](LICENSE).
 Feito por **Suiany Xavier**, estudante de Análise e Desenvolvimento de Sistemas.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Suiany--Xavier-181717?logo=github)](https://github.com/Suiany-Xavier)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Suiany%20Xavier-0077B5?logo=linkedin)](https://www.linkedin.com/in/suiany-xavier-b90668338/)
+
