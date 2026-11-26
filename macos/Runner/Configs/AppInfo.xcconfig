@@ -1,0 +1,14 @@
+// Configurações do aplicativo para o destino Runner.
+//
+// Esta configuração poderá ser substituída por dados gerados automaticamente dos metadados, como pubspec.yaml,
+// no futuro. Caso contrário, os valores abaixo usariam o nome do projeto quando este arquivo se tornar um
+// modelo de 'flutter create'.
+
+// Nome do aplicativo. Por padrão, também é o título da janela do Flutter.
+PRODUCT_NAME = meu_planner
+
+// Identificador do pacote do aplicativo
+PRODUCT_BUNDLE_IDENTIFIER = com.suiany.meuplanner
+
+// Aviso de direitos autorais exibido nas informações do aplicativo
+PRODUCT_COPYRIGHT = Copyright © 2026 Suiany Xavier. All rights reserved.

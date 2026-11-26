@@ -1,0 +1,17 @@
+flutter/ephemeral/
+
+# Arquivos do Visual Studio específicos do usuário.
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos de compilação do Visual Studio.
+x64/
+x86/
+
+# Arquivos de cache do Visual Studio
+# Arquivos com a extensão .cache podem ser ignorados
+*.[Cc]ache
+# Mas mantenha os diretórios cujos nomes terminam em .cache
+!*.[Cc]ache/

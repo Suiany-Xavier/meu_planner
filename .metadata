@@ -1,0 +1,45 @@
+# Este arquivo registra as propriedades deste projeto Flutter.
+# A ferramenta Flutter o utiliza para avaliar recursos e realizar atualizações.
+#
+# Este arquivo deve ser versionado e não deve ser editado manualmente.
+
+version:
+  revision: "abaf9c523780a608bd46686fd5e53740a07077f8"
+  channel: "stable"
+
+project_type: app
+
+# Registra os metadados do comando flutter migrate
+migration:
+  platforms:
+    - platform: root
+      create_revision: abaf9c523780a608bd46686fd5e53740a07077f8
+      base_revision: abaf9c523780a608bd46686fd5e53740a07077f8
+    - platform: android
+      create_revision: abaf9c523780a608bd46686fd5e53740a07077f8
+      base_revision: abaf9c523780a608bd46686fd5e53740a07077f8
+    - platform: ios
+      create_revision: abaf9c523780a608bd46686fd5e53740a07077f8
+      base_revision: abaf9c523780a608bd46686fd5e53740a07077f8
+    - platform: linux
+      create_revision: abaf9c523780a608bd46686fd5e53740a07077f8
+      base_revision: abaf9c523780a608bd46686fd5e53740a07077f8
+    - platform: macos
+      create_revision: abaf9c523780a608bd46686fd5e53740a07077f8
+      base_revision: abaf9c523780a608bd46686fd5e53740a07077f8
+    - platform: web
+      create_revision: abaf9c523780a608bd46686fd5e53740a07077f8
+      base_revision: abaf9c523780a608bd46686fd5e53740a07077f8
+    - platform: windows
+      create_revision: abaf9c523780a608bd46686fd5e53740a07077f8
+      base_revision: abaf9c523780a608bd46686fd5e53740a07077f8
+
+  # Seção preenchida pelo usuário
+
+  # Lista dos caminhos locais, relativos a este arquivo, que devem ser
+  # ignorados pela ferramenta de migração.
+  #
+  # Arquivos que não fazem parte dos modelos são ignorados por padrão.
+  unmanaged_files:
+    - 'lib/main.dart'
+    - 'ios/Runner.xcodeproj/project.pbxproj'

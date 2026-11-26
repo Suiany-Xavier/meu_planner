@@ -1,0 +1,7 @@
+# Copie para android/key.properties e preencha localmente.
+# Caminho absoluto ou relativo à pasta android/.
+# No Windows, use / no caminho (ex.: C:/Users/seu-usuario/chaves/upload.jks).
+storeFile=/caminho/privado/meu-planner-upload.jks
+storePassword=PREENCHA_LOCALMENTE
+keyAlias=upload
+keyPassword=PREENCHA_LOCALMENTE

@@ -1,0 +1,66 @@
+# Diversos
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# Arquivos relacionados ao IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# A pasta .vscode contém configurações de execução e tarefas definidas no
+# VS Code que podem ser incluídas no controle de versão; por isso, esta linha
+# fica comentada por padrão.
+#.vscode/
+
+# Arquivos relacionados ao Flutter, Dart e Pub
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+
+# Arquivos de simbolização
+app.*.symbols
+
+# Arquivos de ofuscação
+app.*.map.json
+
+# O Android Studio armazena os artefatos de compilação aqui
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Arquivos de pré-visualização de widgets
+.widget_preview/
+
+# Chaves e certificados de distribuição (nunca versionar)
+**/key.properties
+**/*.jks
+**/*.keystore
+**/*.p12
+**/*.pfx
+**/*.p8
+**/*.mobileprovision
+
+# Caminhos locais da máquina (SDK Android, Flutter)
+**/local.properties
+
+# Variáveis de ambiente e configurações de serviços externos
+.env
+.env.*
+**/google-services.json
+**/GoogleService-Info.plist
