@@ -58,8 +58,8 @@ App Flutter para organizar tarefas por dia, com calendário, login e cadastro. A
 Para conferir o ambiente, rode `flutter doctor`.
 
 ```bash
-git clone https://github.com/Suiany-Xavier/meu-planner.git
-cd meu-planner
+git clone https://github.com/Suiany-Xavier/meu_planner.git
+cd meu_planner
 flutter pub get
 flutter run            # escolhe o dispositivo disponível
 flutter run -d chrome  # ou direto no navegador
